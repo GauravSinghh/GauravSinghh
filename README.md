@@ -6,7 +6,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/6.gif">
+<img align="right" alt="Coding" width="300" height="80%" src="https://chools.in/wp-content/uploads/6.gif">
 
 - 🔭 I’m currently learning Java in **Masai School**
 
@@ -34,6 +34,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmrpark&show_icons=true&locale=en&layout=compact" alt="gmrpark" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gmrpark&show_icons=true&locale=en" alt="gmrpark" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmrpark&" alt="gmrpark" /></p>
+
+<a href="https://github.com/gmrpark/github-readme-activity-graph"><img alt="GauravSingh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gmrpark&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+
