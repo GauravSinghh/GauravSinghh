@@ -20,7 +20,8 @@
 
 - 📫 How to reach me **gauravjx12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VjF4D9WsDXXT2LGBh0c6-SYQNqQVJBNh/view?usp=sharing](https://drive.google.com/file/d/1VjF4D9WsDXXT2LGBh0c6-SYQNqQVJBNh/view?usp=sharing)
+- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1VjF4D9WsDXXT2LGBh0c6-SYQNqQVJBNh/view?usp=sharing"> Resume </a>
+
 
 - ⚡ Fun fact **I do work in fun way.**
 
