@@ -14,13 +14,13 @@
 
 - 👯 I worked collaboratively on [Orbitz.com-Clone](https://github.com/Gmrpark/Orbitz-clone)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gmrpark](https://github.com/Gmrpark)
+- 👨‍💻 All of my projects are available at  <a href="https://gauravsingh.dev.voyage/"> Portfolio </a>
 
 - 💬 Ask me about **java, mysql, javascript**
 
 - 📫 How to reach me **gauravjx12@gmail.com**
 
-- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1VjF4D9WsDXXT2LGBh0c6-SYQNqQVJBNh/view?usp=sharing"> Resume </a>
+- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1KFoGvpZfrKzUt4JVY__W-G7jugfyEbGH/view?usp=sharing"> Resume </a>
 
 
 - ⚡ Fun fact **I do work in fun way.**
