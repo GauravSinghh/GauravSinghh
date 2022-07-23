@@ -14,7 +14,7 @@
 
 - 👯 I worked collaboratively on [Orbitz.com-Clone](https://github.com/Gmrpark/Orbitz-clone)
 
-- 👨‍💻 All of my projects are available at  <a href="https://gmrpark.github.io/GauravSinghPortfolio/"> Portfolio </a>
+- 👨‍💻 All of my projects are available at  <a href="https://precious-fairy-fd1dbd.netlify.app/"> Portfolio </a>
 
 - 💬 Ask me about **java, mysql, javascript**
 
