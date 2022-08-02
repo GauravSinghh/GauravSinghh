@@ -6,6 +6,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsinghh" /> </p>
 
+<img border-radius="20px" alt="Coding" width="100%" height="250px" src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif">
+<h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
+<h3 align="center">A passionate Java Backend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GauavSinghh&label=Profile%20views&color=0e75b6&style=flat" alt="GauavSinghh" /> </p>
+
+
+
+<img align="right" alt="Coding" width="300" height="80%" src="https://chools.in/wp-content/uploads/6.gif">
+
 
 <img align="right" alt="Coding" width="300" height="80%" src="https://chools.in/wp-content/uploads/6.gif">
 
@@ -15,13 +25,13 @@
 
 - 👯 I worked collaboratively on [Orbitz.com-Clone](https://github.com/GauravSinghh/Orbitz-clone)
 
-- 👨‍💻 All of my projects are available at [https://github.com/GauravSinghh](https://github.com/GauravSinghh)
+- 👨‍💻 All of my projects are available at  <a href="https://precious-fairy-fd1dbd.netlify.app/"> Portfolio </a>
 
 - 💬 Ask me about **java, Spring, mysql, javascript**
 
 - 📫 How to reach me **gauravjx12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KFoGvpZfrKzUt4JVY__W-G7jugfyEbGH/view?usp=sharing](https://drive.google.com/file/d/1KFoGvpZfrKzUt4JVY__W-G7jugfyEbGH/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1KFoGvpZfrKzUt4JVY__W-G7jugfyEbGH/view?usp=sharing"> Resume </a>
 
 - ⚡ Fun fact **I am funny.**
 
