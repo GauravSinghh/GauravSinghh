@@ -7,10 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsinghh" /> </p>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravsinghh" alt="gauravsinghh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/gauravsinghj1" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsinghj1?logo=twitter&style=for-the-badge" alt="gauravsinghj1" /></a> </p>
 <img align="right" alt="Coding" width="300" height="80%" src="https://chools.in/wp-content/uploads/6.gif">
 
 - 🔭 I’m currently learning Java in **Masai School**
