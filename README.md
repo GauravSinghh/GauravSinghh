@@ -6,13 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsinghh" /> </p>
 
-<img border-radius="20px" alt="Coding" width="100%" height="250px" src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif">
-<h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
-<h3 align="center">A passionate Java Backend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GauavSinghh&label=Profile%20views&color=0e75b6&style=flat" alt="GauavSinghh" /> </p>
-
-
 
 <img align="right" alt="Coding" width="300" height="80%" src="https://chools.in/wp-content/uploads/6.gif">
 
