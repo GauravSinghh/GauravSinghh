@@ -7,10 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsinghh" /> </p>
 
 
-<img align="right" alt="Coding" width="300" height="80%" src="https://chools.in/wp-content/uploads/6.gif">
+<img align="right" alt="Coding" width="350" height="80%" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
-
-<img align="right" alt="Coding" width="300" height="80%" src="https://chools.in/wp-content/uploads/6.gif">
 
 - 🔭 I’m currently learning Java in **Masai School**
 
