@@ -40,7 +40,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsinghh&" alt="gauravsinghh" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravsinghh&show_icons=true&locale=en" alt="gauravsinghh" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravsinghh&show_icons=true&locale=en&layout=compact" alt="gauravsinghh" /></p>
-<p></p>
+
+<a href="https://github.com/GauravSinghh/github-readme-activity-graph"><img alt="GauravSingh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GauravSinghh&bg_color=white&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
 
 
 
