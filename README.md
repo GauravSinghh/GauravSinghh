@@ -39,7 +39,7 @@
 
 ## 📊 My Github Stats
 <!--   <br/> -->
-<img align="right" src="https://i.pinimg.com/originals/da/c3/8f/dac38faf997774aa22a78ec3b6283444.gif" alt="gauravsinghh" width="350" />
+<img align="right" src="https://i.pinimg.com/originals/da/c3/8f/dac38faf997774aa22a78ec3b6283444.gif" alt="gauravsinghh"  />
    <a href="https://github.com/gauravsinghh/github-readme-stats"><img alt="gauravsinghh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gauravsinghh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/gauravsinghh/github-readme-stats"><img alt="gauravsinghh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsinghh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a>
   <br/>
