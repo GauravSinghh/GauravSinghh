@@ -39,14 +39,14 @@
 
 ## 📊 My Github Stats
 <!--   <br/> -->
-
+<img align="right" src="https://i.pinimg.com/originals/da/c3/8f/dac38faf997774aa22a78ec3b6283444.gif" alt="gauravsinghh" width="350" />
    <a href="https://github.com/gauravsinghh/github-readme-stats"><img alt="gauravsinghh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gauravsinghh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/gauravsinghh/github-readme-stats"><img alt="gauravsinghh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsinghh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a>
   <br/>
 <!--   /*<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-> -->
-
+ <br/>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsinghh&&theme=tokyonight" alt="gauravsinghh" />
-<img align="right" src="https://beautywithinofficial.com/wp-content/uploads/2020/12/source-3.gif" alt="gauravsinghh" width="350" />
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravsinghh&show_icons=true&locale=en&layout=compact" alt="gauravsinghh" /></p> -->
 
 <a href="https://github.com/GauravSinghh/github-readme-activity-graph"><img alt="GauravSingh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GauravSinghh&bg_color=white&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&bg_color=0D1117" /></a>
