@@ -16,7 +16,7 @@
 
 - 👯 I worked collaboratively on [REST API for an Covid-19 Application](https://github.com/nvFARHAN/cowin.gov.in)
 
-- 👨‍💻 All of my projects are available at  <a href="https://gauravsinghh.github.io/GauravSinghPortfolio/"> **Portfolio** </a>
+- 👨‍💻 All of my projects are available at  <a href="https://gauravsinghh.github.io"> **Portfolio** </a>
 
 - 💬 Ask me about **java, Spring, mysql, javascript**
 
