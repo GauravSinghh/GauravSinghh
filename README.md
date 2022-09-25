@@ -12,17 +12,9 @@
 
 - 🔭 I’m currently learning Java in **Masai School**
 
-- 🌱 I’m currently learning **Spring boot**
-
-- 👯 I worked collaboratively on [REST API for an Covid-19 Application](https://github.com/nvFARHAN/cowin.gov.in)
-
-- 👨‍💻 All of my projects are available at  <a href="https://gauravsinghh.github.io"> **Portfolio** </a>
-
-- 💬 Ask me about **java, Spring, mysql, javascript**
-
 - 📫 How to reach me **gauravjx12@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1Mm2vlRbL5kQkAocmwI-0YJ3YciivUiVx?usp=sharing">**Resume** </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1NlcSRyfKNs2N4V04COZmGpQZ41nkxZMt/view?usp=sharing">**Resume** </a>
 
 - ⚡ Fun fact **I am funny.**
 
