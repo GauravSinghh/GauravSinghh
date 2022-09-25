@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
-<h3 align="center">A passionate Backend developer from India, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
+<h3 align="center">A passionate Backend developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsinghh" /> </p>
 
