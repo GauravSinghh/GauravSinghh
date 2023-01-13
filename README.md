@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1NlcSRyfKNs2N4V04COZmGpQZ41nkxZMt/view?usp=sharing">**Resume** </a>
 
-- ⚡ Fun fact **I am funny.**
+- ⚡ Fun fact **I am fun to be with.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
