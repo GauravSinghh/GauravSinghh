@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently learning Java in **Masai School**
 
-- 📫 How to reach me **gauravjx12@gmail.com**
+- 📫 Reach me on **gauravjx12@gmail.com**
 
 - 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/1NlcSRyfKNs2N4V04COZmGpQZ41nkxZMt/view?usp=sharing">**Resume** </a>
 
