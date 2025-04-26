@@ -10,8 +10,6 @@
 <img align="right" alt="Coding" width="350" height="80%" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
 
-<!-- - 🔭 I learnt JAVA and SpringBoot from **Masai School**
- -->
 - 📫 Reach me on **gauravjx12@gmail.com**
 
 - 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/1NlcSRyfKNs2N4V04COZmGpQZ41nkxZMt/view?usp=sharing">**Resume** </a>
