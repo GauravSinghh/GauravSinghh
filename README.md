@@ -12,7 +12,7 @@
 
 - 📫 Reach me on **gauravjx12@gmail.com**
 
-- 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/17e9miWfKKrOH8iCnaPi1-XDyJys1mhzx/view?usp=sharing">**Resume** </a>
+- 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/1tqvrofy8O34zOTuJtO83HHYHKivbkHiW/view?usp=sharing">**Resume** </a>
 
 - ⚡ Fun fact **I am fun to be with.**
 
