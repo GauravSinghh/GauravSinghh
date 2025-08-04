@@ -45,7 +45,7 @@ Recognized for writing clean, maintainable code and optimizing backend performan
 
 <a href="https://github.com/GauravSinghh/github-readme-activity-graph"><img alt="GauravSingh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GauravSinghh&bg_color=white&color=5BCDEC&line=5BCDEC&point=5BCDEC&hide_border=true&bg_color=0D1117" /></a>
 
-<a href="https://github.com/GauravSinghh/github-readme-activity-graph"><img alt="GauravSingh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GauravSinghh&bg_color=white&color=5BCDEC&line=5BCDEC&point=5BCDEC&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/GauravSinghh/github-readme-activity-graph"><img alt="GauravSingh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GauravSinghh&theme=react-dark" /></a>
 <br/>
 
 
